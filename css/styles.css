@@ -1,0 +1,95 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Raleway', sans-serif;
+  font-size: 20px;
+}
+
+
+h1 {
+
+  /* margin-top: 50px; */
+  font-size: 5.25rem;
+  margin: 50px auto 0 auto;
+  color: #1C2B2D;
+  line-height: 2;
+
+
+}
+
+hr {
+  border-top: 1px dashed #99A8B2;
+  border-left:none;
+  border-bottom: none;
+  border-right: right;
+}
+
+h3 {
+  font-weight: bold;
+}
+
+
+
+.top-container {
+  padding-top: 100px
+}
+
+.top-cloud {
+  position: relative;
+  left: 250px
+}
+
+
+
+.about-me-text{
+  padding: 50px;
+}
+
+
+.bottom-cloud {
+  position: absolute;
+  left: 300px
+}
+
+
+
+table{
+  border: 1px solid;
+  align-content: center;
+  align-items: center;
+  align-self: center;
+  margin-left: auto;
+  margin-right: auto;
+
+}
+
+tr{
+  border: 1px solid;
+}
+
+ tr:nth-child(even) {background-color: #f2f2f2;
+ border: solid 2px} 
+
+td:hover {background-color: #E6D5B8;}
+
+a {
+  display: block;
+}
+
+.cv-section{
+  width: 50%;
+  margin: 10px auto;
+  padding: 10px 5px;
+  line-height: 2;
+
+
+}
+
+#about-me-text {
+  text-align: justify;
+}
+
+.icon{
+  width: 25%;
+  float: center;
+}
